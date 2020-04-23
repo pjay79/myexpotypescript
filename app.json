@@ -1,0 +1,17 @@
+{
+  "name": "myexpotypescript",
+  "displayName": "myexpotypescript",
+  "expo": {
+    "name": "myexpotypescript",
+    "slug": "myexpotypescript",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
